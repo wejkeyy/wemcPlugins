@@ -8,7 +8,7 @@ Support:
 
 ## Plugins
 [Event](https://github.com/wejkeyy/wemcEvent)
-
-
-
-<small>hi</small>
+ 
+ 
+ 
+These plugins are created by AI. They are repaired by humans. Then the AI fixes the fixes and makes more problems. Finally, a human fixes it. So it's 45 AI/ 55 human.
