@@ -8,3 +8,7 @@ Support:
 
 ## Plugins
 [Event](https://github.com/wejkeyy/wemcEvent)
+
+
+
+<small>hi</small>
