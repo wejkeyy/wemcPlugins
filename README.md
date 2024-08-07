@@ -3,6 +3,7 @@
 Simple, free-to-use Minecraft plugins with 1.20+ versions. Versions under 1.20 are not tested, but they can work.
 
 Support: [here](https://discord.gg/VFm85ypmHh)
+Spigot: [here](https://www.spigotmc.org/resources/wemcevent.118712/)
 
 ## Plugins
 [Event](https://github.com/wejkeyy/wemcEvent)
